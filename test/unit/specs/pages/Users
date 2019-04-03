@@ -1,0 +1,67 @@
+// import Users from '@/pages/Users.vue'
+// import { shallow } from 'vue-test-utils'
+//
+// describe('Users.vue', () => {
+//   let component
+//
+//   beforeEach(() => {
+//     component = shallow(Users)
+//   })
+//   it('method#prev_Button', () => {
+//     component.vm.prevButton()
+//   })
+//   it('method#next_Button', () => {
+//     component.vm.nextButton()
+//   })
+//   it('method#fetch_Division', () => {
+//     component.vm.fetchDivision()
+//   })
+//   it('method#fetch_Role', () => {
+//     component.vm.fetchRole()
+//   })
+//   it('method#close_Valid_Success', () => {
+//     component.vm.close()
+//   })
+//   it('method#fetch_Item', () => {
+//     component.vm.fetchItem()
+//   })
+//   it('method#edit_Item_Dialog', () => {
+//     let items = {
+//       id: null,
+//       username: null,
+//       password: null,
+//       role: null,
+//       status: null,
+//       division: null
+//     }
+//     component.vm.editItem(items)
+//   })
+//   it('method#off_Delete_Item_Status', () => {
+//     let items = {
+//       id: null,
+//       username: null,
+//       password: null,
+//       role: null,
+//       status: null,
+//       division: null
+//     }
+//     component.vm.offDeleteItem(items)
+//   })
+//   it('method#on_Delete_Item_Status', () => {
+//     let items = {
+//       id: null,
+//       username: null,
+//       password: null,
+//       role: null,
+//       status: null,
+//       division: null
+//     }
+//     component.vm.onDeleteItem(items)
+//   })
+//   it('method#search_Items', () => {
+//     component.vm.searchItem()
+//   })
+//   it('method#save_Or_Update_Item', function () {
+//     component.vm.save()
+//   })
+// })
